@@ -1,0 +1,10 @@
+.welcome{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_of_the_Polish_Socialist_Party_%282021%29.svg/1200px-Logo_of_the_Polish_Socialist_Party_%282021%29.svg.png);
+background-position: center;
+}
+.wrapper{
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
